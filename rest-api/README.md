@@ -2,19 +2,21 @@
 
 ## Cloning repository
 
-L820:~ tushar$cd ~/workspace/src/github.com
+L820:~ tushar$cd ~/workspace/src/github.com/  
+
 L820:~ tushar$git clone https://github.com/patharetush/pucsd2020-pp.git 
 
 ## HOW TO COMPILE
 
-L820:~ tushar$cd ~/workspace/src/github.com/pucsd2020-pp/rest-api
+L820:~ tushar$cd ~/workspace/src/github.com/pucsd2020-pp/rest-api  
+
 L820:rest-api tushar$ go build
 
 ## HOW TO RUN
 L820:rest-api tushar$ ./rest-api
 
-## SENDINF HTTP REQUEST
-Install curl if not already installed.
+## SENDING HTTP REQUEST
+Install curl if not already installed.  
 
 command : apt install curl
 
